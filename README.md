@@ -16,7 +16,7 @@
 
 ---
 
-![SQL-3](https://www.google.com/imgres?imgurl=https%3A%2F%2Fkinsta.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fpostgresql-replication.png&imgrefurl=https%3A%2F%2Fkinsta.com%2Fblog%2Fpostgresql-replication%2F&tbnid=UgV3YIHPZKbBDM&vet=12ahUKEwjjzcqbg7v9AhWR_rsIHV8WC2QQMyglegUIARCMAg..i&docid=9o2hOle1UthT2M&w=1460&h=730&q=psql%20image&ved=2ahUKEwjjzcqbg7v9AhWR_rsIHV8WC2QQMyglegUIARCMAg)
+![SQL-3](https://kinsta.com/wp-content/uploads/2022/07/postgresql-replication-1024x512.png)
 
 ---
 
