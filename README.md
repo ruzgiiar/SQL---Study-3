@@ -1,4 +1,4 @@
-# SQL -- Study - 3
+# SQL --- Study - 3
 
 ---
 
